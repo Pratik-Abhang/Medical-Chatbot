@@ -1,0 +1,11 @@
+langchain>=0.1.0    # Core LangChain
+langchain_openai       # OpenAI integration for LangChain
+langgraph           # LangGraph library
+faiss-cpu           # FAISS vector store
+openai              # For OpenAI API usage
+python-dotenv       # For .env files
+wikipedia           # Wikipedia API
+arxiv               # Arxiv API wrapper
+langchain-community
+streamlit
+langsmith
